@@ -1,3 +1,14 @@
+## Quote Generator App
+
+Sample React based app which displays random quote out of few hardcoded quotes.
+
+## Repo Setup
+
+Clone the repository & run the script `npm install` to install the required npm dependencies.
+Then, run  `npm start`  to start the application on localhost server. 
+
+---------------------------------------------------------------------------------------------------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
